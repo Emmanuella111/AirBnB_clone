@@ -171,4 +171,6 @@ The recognizable commands by the interpreter are the following:
 
 Ogbodu Emmanuella| Email:(mailto:emmannuellaogbodu@gmail.com) 
 
-Dan King Eze | Email| (mailto:edycram4u@gmail.com)
+Dan King Eze | Email| (mailto:edycram4u@gmail.com
+
+This project objective was to create a clone of the AirBnB website)
