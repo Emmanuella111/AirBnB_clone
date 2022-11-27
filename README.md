@@ -1,4 +1,4 @@
-# The AirBnB Clone Project
+	# The AirBnB Clone Project
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
 ## Project Description
@@ -171,6 +171,6 @@ The recognizable commands by the interpreter are the following:
 
 Ogbodu Emmanuella| Email:(mailto:emmannuellaogbodu@gmail.com) 
 
-Dan King Eze | Email| (mailto:edycram4u@gmail.com
+Dan King Eze | Email| (mailto:edycram4u@gmail.com)
 
 This project objective was to create a clone of the AirBnB website)
